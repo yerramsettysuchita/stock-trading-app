@@ -1,7 +1,7 @@
 // src/constants/config.js
 export const API_CONFIG = {
   BASE_URL: 'https://www.alphavantage.co/query',
-  API_KEY: 'YBMJYH7WTX0BU6ZZ', 
+  API_KEY: '', 
   TIMEOUT: 10000,
 };
 
